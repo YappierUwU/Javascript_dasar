@@ -1,0 +1,34 @@
+
+[
+    {
+
+    "idmenu":1,
+    "idkategori" : 1,
+    "menu" : " Jus Alpukat ",
+    "harga" : 8000,
+    "warna" : [" merah ", " kuning ", " hijau "],
+    "stok" : true,
+    "keterangan" : null
+},
+{
+
+    "idmenu":2,
+    "idkategori" : 1,
+    "menu" : " Jus Apel ",
+    "harga" : 7000,
+    "warna" : [" merah ", " kuning ", " hijau "],
+    "stok" : true,
+    "keterangan" : null
+},
+{  
+    "idmenu":1,
+    "idkategori" : 2,
+    "menu" : " Es Teh ",
+    "harga" : 4000,
+    "warna" : [" merah ", " kuning ", " hijau "],
+    "stok" : true,
+    "keterangan" : null
+}
+
+
+]
